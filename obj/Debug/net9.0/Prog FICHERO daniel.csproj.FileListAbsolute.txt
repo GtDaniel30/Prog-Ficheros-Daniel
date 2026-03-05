@@ -1,0 +1,14 @@
+C:\Users\jesus\Desktop\Prog FICHERO daniel\bin\Debug\net9.0\Prog FICHERO daniel.exe
+C:\Users\jesus\Desktop\Prog FICHERO daniel\bin\Debug\net9.0\Prog FICHERO daniel.deps.json
+C:\Users\jesus\Desktop\Prog FICHERO daniel\bin\Debug\net9.0\Prog FICHERO daniel.runtimeconfig.json
+C:\Users\jesus\Desktop\Prog FICHERO daniel\bin\Debug\net9.0\Prog FICHERO daniel.dll
+C:\Users\jesus\Desktop\Prog FICHERO daniel\bin\Debug\net9.0\Prog FICHERO daniel.pdb
+C:\Users\jesus\Desktop\Prog FICHERO daniel\obj\Debug\net9.0\Prog FICHERO daniel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\Desktop\Prog FICHERO daniel\obj\Debug\net9.0\Prog FICHERO daniel.AssemblyInfoInputs.cache
+C:\Users\jesus\Desktop\Prog FICHERO daniel\obj\Debug\net9.0\Prog FICHERO daniel.AssemblyInfo.cs
+C:\Users\jesus\Desktop\Prog FICHERO daniel\obj\Debug\net9.0\Prog FICHERO daniel.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\Prog FICHERO daniel\obj\Debug\net9.0\Prog FICHERO daniel.dll
+C:\Users\jesus\Desktop\Prog FICHERO daniel\obj\Debug\net9.0\refint\Prog FICHERO daniel.dll
+C:\Users\jesus\Desktop\Prog FICHERO daniel\obj\Debug\net9.0\Prog FICHERO daniel.pdb
+C:\Users\jesus\Desktop\Prog FICHERO daniel\obj\Debug\net9.0\Prog FICHERO daniel.genruntimeconfig.cache
+C:\Users\jesus\Desktop\Prog FICHERO daniel\obj\Debug\net9.0\ref\Prog FICHERO daniel.dll
