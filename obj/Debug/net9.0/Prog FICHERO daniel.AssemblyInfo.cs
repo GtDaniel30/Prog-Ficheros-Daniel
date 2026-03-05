@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prog FICHERO daniel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56073bbad9a41b456576bd66146dd5dc504e1fd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prog FICHERO daniel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prog FICHERO daniel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
